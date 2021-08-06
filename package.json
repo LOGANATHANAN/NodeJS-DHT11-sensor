@@ -1,0 +1,25 @@
+{
+  "name": "temp-hum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.5",
+    "node-dht-sensor": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LOGANATHANAN/NodeJS-DHT11-sensor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LOGANATHANAN/NodeJS-DHT11-sensor/issues"
+  },
+  "homepage": "https://github.com/LOGANATHANAN/NodeJS-DHT11-sensor#readme"
+}
