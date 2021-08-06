@@ -18,5 +18,5 @@ To run type ->    node main.js
 <h4> Sample Data stored in MongoDB Atlas </h4>
 
 <p align="center">
-  <img src="/Data.png" width="450" title="Sample Collected Data">
+  <img src="/Data.png" width="max-width" title="Sample Collected Data">
 </p>
